@@ -1,0 +1,16 @@
+POLSKA
+1	Wis³a
+2	Odra
+3	Warta
+4	Bug
+5	Narew
+6	San
+7	Noteæ
+8	Pilica
+9	Wieprz
+10	Dunajec
+11	Bóbr
+12	£yna
+13	Nysa £u¿ycka
+14	Wkra
+15	Brda
