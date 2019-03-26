@@ -1,0 +1,19 @@
+POLSKA
+1	Wisła
+2	Odra
+3	Warta
+4	Bug
+5	Narew
+6	San
+7	Noteć
+8	Pilica
+9	Wieprz
+10	Dunajec
+11	Bóbr
+12	Łyna
+13	Nysa Łużycka
+14	Wkra
+15	Brda
+16  Prosna
+17  Drwęca
+18  Wisłok
